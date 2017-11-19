@@ -26,6 +26,7 @@
         "drupal/bootstrap_paragraphs": "^2.0@beta",
         "drupal/console": "^1.0.1",
         "drupal/core": "~8.0",
+        "drupal/cshs": "^1.0@beta",
         "drupal/ds": "^3.1",
         "drupal/page_manager": "^4.0@beta",
         "drupal/panels": "^4.2",
