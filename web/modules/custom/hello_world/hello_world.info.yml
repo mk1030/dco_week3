@@ -1,0 +1,6 @@
+name: Hello World
+type: module
+description: My Hello, World module.
+core: 8.x
+package: DrupalEasy
+version: 8.x-1.0
