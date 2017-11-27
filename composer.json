@@ -24,7 +24,7 @@
         "drupal/bootstrap": "^3.6",
         "drupal/bootstrap_layouts": "^5.0",
         "drupal/bootstrap_paragraphs": "^2.0@beta",
-        "drupal/console": "^1.0.1",
+        "drupal/console": "~1.0",
         "drupal/core": "~8.0",
         "drupal/cshs": "^1.0@beta",
         "drupal/devel": "^1.2",
