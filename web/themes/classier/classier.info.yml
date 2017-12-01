@@ -1,0 +1,14 @@
+name: 'Classier'
+description: 'A classier Drupal Theme based on Classy'
+core: 8.x
+type: theme
+base theme: classy
+libraries: 
+  - 'classier/global-styling'
+regions:
+  header: Header
+  featured: featured
+  content: content
+  sidebar_first: First sidebar
+  sidebar_second: Second sidebar
+  footer: Footer

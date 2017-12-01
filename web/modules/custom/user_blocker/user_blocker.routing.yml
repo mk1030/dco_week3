@@ -1,0 +1,8 @@
+user_blocker.user_blocker_form:
+  path: '/admin/people/blocker'
+  defaults:
+    _form: '\Drupal\user_blocker\Form\BlockerForm'
+    _title: 'User Blocker'
+  requirements:
+    _permission: block users
+  
