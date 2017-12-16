@@ -13,7 +13,6 @@ regions:
   highlighted: 'Highlighted'
   help: 'Help'
   content: 'Content'
-  sidebar_first: 'Primary'
   sidebar_second: 'Secondary'
   pre_footer_left: 'Pre-Footer left'
   pre_footer_right: 'Pre-Footer right'

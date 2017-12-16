@@ -21,7 +21,7 @@
         "drupal-composer/drupal-scaffold": "^2.2",
         "drupal/admin_toolbar": "^1.20",
         "drupal/block_visibility_groups": "^1.1",
-        "drupal/bootstrap": "^3.6",
+        "drupal/bootstrap": "^3.7",
         "drupal/bootstrap_layouts": "^5.0",
         "drupal/bootstrap_paragraphs": "^2.0@beta",
         "drupal/console": "~1.0",
@@ -33,6 +33,7 @@
         "drupal/panels": "^4.2",
         "drupal/paragraphs": "^1.2",
         "drupal/pathauto": "^1.0",
+        "drupal/search_kint": "^1.0",
         "drush/drush": "~8.0",
         "webflo/drupal-finder": "^1.0.0",
         "webmozart/path-util": "^2.3"
